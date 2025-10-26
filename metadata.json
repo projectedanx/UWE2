@@ -1,0 +1,5 @@
+{
+  "name": "Unified Word Explorer",
+  "description": "A comprehensive dashboard for deep linguistic analysis. This tool goes beyond a simple dictionary, offering a multi-faceted exploration of words by integrating data from various lexical, semantic, and knowledge-based sources, augmented with AI-powered insights from Google Gemini.",
+  "requestFramePermissions": []
+}
